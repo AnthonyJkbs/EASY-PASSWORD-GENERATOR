@@ -18,6 +18,13 @@ just to improve my skill in **python** and to have a simple **password generator
  - 👁️ show / hide       -> reveal or mask the password
  - 💾 SAVE button       -> append the password to a text file
 
+## 📸 screenshot
+
+<p align="center">
+  <img src="resources/res1.png" width="45%">
+  <img src="resources/res2.png" width="45%">
+</p>
+
 ## 💻 Stack Technique
 
 | Domaine | Technologies |
@@ -26,3 +33,4 @@ just to improve my skill in **python** and to have a simple **password generator
 | **Framework / Libs** |Tkinter|
 | **Environnement** | Linux (Fedora) / Docker |
 | **Gestion de versions**| Git / GitHub |
+
